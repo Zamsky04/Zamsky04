@@ -2,7 +2,7 @@
 
 # **Azzam Lathifun Najih (Zamsky)**
 ### **Fullstack Software Engineer**
-Specializing in Laravel, React.js, & Vue.js to build high-quality web solutions.
+Specializing in Laravel, React.js & Vue.js for building high-quality web solutions.
 
 _"I craft robust and elegant digital experiences, transforming complex problems into clean, efficient, and maintainable code."_
 
@@ -10,9 +10,9 @@ _"I craft robust and elegant digital experiences, transforming complex problems 
 
 ---
 
-### **About Me**
+### **< About Me />**
 
-As a Fullstack Engineer, I specialize in the **Laravel** ecosystem for robust backend architecture and modern JavaScript frameworks like **React.js** and **Vue.js** for creating dynamic user interfaces. My passion lies in creating solutions from concept to deployment, focusing on performance, security, and user experience.
+As a Fullstack Engineer, I specialize in the **Laravel** ecosystem for backend architecture and modern JavaScript frameworks like **React.js** & **Vue.js** for building dynamic user interfaces. My passion lies in creating solutions from concept to deployment, focusing on performance, security, and user experience.
 
 I have hands-on experience developing various applications, including **professional company profiles**, **web-based information systems (such as school payment management)**, and custom business solutions that help organizations operate more efficiently. I am a strong advocate for clean architecture and SOLID principles.
 
@@ -38,7 +38,7 @@ Here are some of the projects I've built that showcase my skills and expertise.
         <a href="https://github.com/Zamsky04/techno-solusi-indonesia"><strong>Techno Solusi Indonesia - Company Profile</strong></a>
         <p>Built a professional and responsive company profile website to showcase the services, portfolio, and contact information for Techno Solusi Indonesia, strengthening their corporate digital footprint.</p>
         <p>
-          <code>#React.js</code> <code>#Laravel</code> <code>#TailwindCSS</code> <code>#PHP</code> <code>#MySQL</code>
+          <code>#Laravel</code> <code>#PHP</code> <code>#Tailwindcss</code> <code>#MySQL</code> <code>#React.js</code>
         </p>
         <a href="https://github.com/Zamsky04/techno-solusi-indonesia" target="_blank">Source Code</a>
       </td>
@@ -60,20 +60,11 @@ Here are some of the projects I've built that showcase my skills and expertise.
 
 ### **🔧 My Technical Stack**
 
-* **Backend:**
-  * **Laravel**, PHP, RESTful API Design
-
-* **Frontend:**
-  * **React.js**, **Vue.js**, JavaScript (ES6+), HTML5, CSS3, Blade
-
-* **Styling:**
-  * **Tailwind CSS**, Bootstrap
-
-* **Databases:**
-  * MySQL, **PostgreSQL**
-
-* **Tools & Principles:**
-  * Git, GitHub, API Testing (Postman), SOLID Principles, MVC Architecture
+* **Backend:** **Laravel**, PHP, RESTful API Design
+* **Frontend:** **React.js**, **Vue.js**, JavaScript (ES6+), Inertia.js, HTML5, CSS3, Blade
+* **Styling:** **Tailwind CSS**, Bootstrap
+* **Databases:** MySQL, **PostgreSQL**
+* **Tools & Principles:** Git, GitHub, **Postman**, Docker (Basic), SOLID Principles, MVC Architecture
 
 ---
 
@@ -82,7 +73,7 @@ Here are some of the projects I've built that showcase my skills and expertise.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zamsky04&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=333&icon_color=007ACC&count_private=true" alt="Zamsky04's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zamsky04&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=333" alt="Top Languages" />
-</p>
+p>
 
 ---
 
