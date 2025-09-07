@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Azzam Lathifun Najih (Zamsky)**
+# **Azzam Lathifun Najih**
 ### **Fullstack Software Engineer**
 Specializing in Laravel, React.js, & Vue.js to build high-quality web solutions.
 
@@ -10,7 +10,7 @@ _"I craft robust and elegant digital experiences, transforming complex problems 
 
 ---
 
-### **< About Me />**
+### **About Me**
 
 As a Fullstack Engineer, I specialize in the **Laravel** ecosystem for robust backend architecture and modern JavaScript frameworks like **React.js** and **Vue.js** for creating dynamic user interfaces. My passion lies in creating solutions from concept to deployment, focusing on performance, security, and user experience.
 
@@ -73,7 +73,7 @@ Here are some of the projects I've built that showcase my skills and expertise.
   * MySQL, **PostgreSQL**
 
 * **Tools & Principles:**
-  * Git, GitHub, API Testing (Postman), SOLID Principles, MVC Architecture
+  * Git, GitHub, API Testing (Postman), Docker (Basic), SOLID Principles, MVC Architecture
 
 ---
 
