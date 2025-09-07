@@ -1,33 +1,31 @@
 <div align="center">
 
 # **Azzam Lathifun Najih**
-### **Fullstack Software Engineer**
-Specializing in Laravel, React.js, & Vue.js to build high-quality web solutions.
-
+### **Fullstack Developer | Digital Marketing Strategist**
 _"I craft robust and elegant digital experiences, transforming complex problems into clean, efficient, and maintainable code."_
 
 </div>
 
 ---
 
-### **About Me**
+### **< About Me />**
 
-As a Fullstack Engineer, I specialize in the **Laravel** ecosystem for robust backend architecture and modern JavaScript frameworks like **React.js** and **Vue.js** for creating dynamic user interfaces. My passion lies in creating solutions from concept to deployment, focusing on performance, security, and user experience.
+[cite_start]As a fresh graduate in Informatics Engineering, I specialize in the **Laravel** ecosystem for backend architecture and modern JavaScript frameworks like **React.js** for creating dynamic user interfaces[cite: 5, 6, 7]. [cite_start]My passion lies in the complete web development lifecycle—from database design and REST API development to deployment[cite: 6].
 
-I have hands-on experience developing various applications, including **professional company profiles**, **web-based information systems (such as school payment management)**, and custom business solutions that help organizations operate more efficiently. I am a strong advocate for clean architecture and SOLID principles.
+[cite_start]Beyond development, I have strong enthusiasm and practical experience in **Digital Marketing** and **IT Networking**[cite: 5, 8]. [cite_start]I am skilled in SEO-based strategy, campaign management, and network administration, holding a **Certified Network Administrator** credential from BNSP[cite: 9, 26]. [cite_start]I am committed to leveraging both technical excellence and digital strategy to drive organizational success[cite: 10].
 
 ---
 
 ### **✨ Featured Projects**
 
-Here are some of the projects I've built that showcase my skills and expertise.
+[cite_start]Here are some of the projects I've built that showcase my skills and expertise during my professional experience[cite: 31].
 
 <table>
   <tbody>
     <tr>
       <td width="50%">
         <a href="https://asaoptima.co.id"><strong>LPK Asa Optima - Official Website</strong></a>
-        <p>Developed the official website for LPK Asa Optima, a job training institute. This live project serves to provide information on training programs, facilitate registration, and build the institution's online presence.</p>
+        <p>Developed the official website for LPK Asa Optima, a job training institute. [cite_start]This live project serves to provide information on training programs and build the institution's online presence[cite: 32].</p>
         <p>
           <code>#Laravel</code> <code>#PHP</code> <code>#Bootstrap</code> <code>#MySQL</code> <code>#SEO</code>
         </p>
@@ -35,8 +33,8 @@ Here are some of the projects I've built that showcase my skills and expertise.
         <a href="https://github.com/Zamsky04/LPKAsaOptima" target="_blank">Source Code</a>
       </td>
       <td width="50%">
-        <a href="https://github.com/Zamsky04/techno-solusi-indonesia"><strong>Techno Solusi Indonesia - Company Profile</strong></a>
-        <p>Built a professional and responsive company profile website to showcase the services, portfolio, and contact information for Techno Solusi Indonesia, strengthening their corporate digital footprint.</p>
+        <a href="https://github.com/Zamsky04/techno-solusi-indonesia"><strong>Techno Solusi Indonesia - Certification Web</strong></a>
+        [cite_start]<p>Built a professional website for Techno Solusi Indonesia to manage their certification programs, strengthening their corporate digital footprint[cite: 32].</p>
         <p>
           <code>#React.js</code> <code>#Laravel</code> <code>#TailwindCSS</code> <code>#PHP</code> <code>#MySQL</code>
         </p>
@@ -45,35 +43,32 @@ Here are some of the projects I've built that showcase my skills and expertise.
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://github.com/Zamsky04/hanamulia-spp"><strong>Hanamulia SPP - School Payment System</strong></a>
-        <p>A web-based SPP (Tuition Fee) payment management system for the Hanamulia institution. Features include student data management, payment tracking, and financial reporting for administrators.</p>
+        <a href="#"><strong>Conveyor Marketing Website</strong></a>
+        [cite_start]<p>Designed and developed a targeted marketing website for a conveyor product line, focusing on lead generation and product showcasing as part of a 3-website project completed in 2 months[cite: 32].</p>
         <p>
-          <code>#Laravel</code> <code>#PHP</code> <code>#Information System</code> <code>#Bootstrap</code>
+          <code>#Laravel</code> <code>#PHP</code> <code>#Bootstrap</code> <code>#TailwindCSS</code>
         </p>
-        <a href="https://github.com/Zamsky04/hanamulia-spp" target="_blank">Source Code</a>
-      </td>
+        </td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### **🔧 My Technical Stack**
+### **🔧 My Technical Arsenal**
 
-* **Backend:**
-  * **Laravel**, PHP, RESTful API Design
+* [cite_start]**Backend & Programming:** PHP (Laravel), Python, Java, C++, Node.js (Express), RESTful API, GraphQL[cite: 14].
+* [cite_start]**Frontend & UI/UX:** React.js, Angular, TailwindCSS, Bootstrap, DaisyUI, Responsive Design[cite: 15].
+* [cite_start]**Databases:** MySQL, PostgreSQL, SQLite, MongoDB[cite: 16].
+* [cite_start]**QA & Testing:** Black Box Testing, UAT, Test Cases, Test Planning, Postman[cite: 17].
+* [cite_start]**IT Networking:** Routing, Switching, Subnetting, TCP/IP, DHCP, DNS, AP Configuration[cite: 18].
+* [cite_start]**Tools & Platforms:** Git & GitHub/GitLab, Laragon, XAMPP, VMware, VirtualBox, Cisco Packet Tracer, Figma[cite: 21, 22].
 
-* **Frontend:**
-  * **React.js**, **Vue.js**, JavaScript (ES6+), HTML5, CSS3, Blade
+---
 
-* **Styling:**
-  * **Tailwind CSS**, Bootstrap
+### **🏆 Certifications**
 
-* **Databases:**
-  * MySQL, **PostgreSQL**
-
-* **Tools & Principles:**
-  * Git, GitHub, API Testing (Postman), Docker (Basic), SOLID Principles, MVC Architecture
+* [cite_start]**Certified Network Administrator** - Badan Nasional Sertifikasi Profesi (BNSP), 2024[cite: 26].
 
 ---
 
@@ -92,7 +87,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <p align="center">
   <a href="mailto:azzamlathifun01@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-azzamlathifun01@gmail.com-blue?style=for-the-badge&logo=gmail"/>
+    <img alt="Email" src="https://img-shields.io/badge/Email-azzamlathifun01@gmail.com-blue?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="[URL_PROFIL_LINKEDIN_ANDA]">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
