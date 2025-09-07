@@ -10,7 +10,7 @@ _"I craft robust and elegant digital experiences, transforming complex problems 
 
 ---
 
-### ** About Me **
+### **About Me**
 
 As a Fullstack Engineer, I specialize in the **Laravel** ecosystem for backend architecture and building complete web applications. My passion lies in creating solutions from concept to deployment, focusing on performance, security, and user experience.
 
