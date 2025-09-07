@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Azzam Lathifun Najih (Zamsky)**
+# **Azzam Lathifun Najih**
 ### **Fullstack Software Engineer**
 Specializing in Laravel for building high-quality web solutions.
 
@@ -38,7 +38,7 @@ Here are some of the projects I've built that showcase my skills and expertise.
         <a href="https://github.com/Zamsky04/techno-solusi-indonesia"><strong>Techno Solusi Indonesia - Company Profile</strong></a>
         <p>Built a professional and responsive company profile website to showcase the services, portfolio, and contact information for Techno Solusi Indonesia, strengthening their corporate digital footprint.</p>
         <p>
-          <code>#Laravel</code> <code>#PHP</code> <code>#Bootstrap</code> <code>#MySQL</code>
+          <code>#Laravel</code> <code>#PHP</code> <code>#Tailwindcss</code> <code>#MySQL</code> <code>#React.js</code>
         </p>
         <a href="https://github.com/Zamsky04/techno-solusi-indonesia" target="_blank">Source Code</a>
       </td>
